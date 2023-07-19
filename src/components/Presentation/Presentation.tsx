@@ -40,10 +40,10 @@ export function Presentation() {
     >
       <div className=" max-w-xs">
         <h1 className=" text-4xl leading-10 font-medium maxw ">
-          Olá, eu sou o Giovani Ocan :)
+          Hello, I am Giovani Ocan :)
         </h1>
         <h2 className=" mt-6 text-lg font-normal dark:text-zinc-400 ">
-          Desenvolvedor Frontend Junior
+          Frontend Developer
         </h2>
         <div className=" w-full mt-8 flex items-center justify-stretch gap-3 ">
           <a
@@ -56,7 +56,7 @@ export function Presentation() {
             onClick={handleOpenContactModal}
             className="  md:animate-pulse border border-zinc-400 dark:border-zinc-800 w-full text-sm p-3 bg-green-500 text-black "
           >
-            Entrar em contato
+            Get in touch
           </button>
         </div>
       </div>

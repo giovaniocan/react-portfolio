@@ -17,7 +17,7 @@ export function ContactModal({ isOpen, onRequestClose }: ContactModalProps) {
       className=" p-6 bg-white border-2  border-green-500 rounded-lg  mx-6 w-full lg:w-1/3 lg:p-10 dark:bg-zinc-900 dark:border"
     >
       <div className=" flex justify-between items-center mt-2">
-        <h1 className=" text-3xl font-medium ">Contatos</h1>
+        <h1 className=" text-3xl font-medium ">Contacts</h1>
         <button onClick={onRequestClose}>
           <X size={30} className=" -mr-6 -mt-10 text-zinc-500 " />
         </button>
@@ -28,7 +28,7 @@ export function ContactModal({ isOpen, onRequestClose }: ContactModalProps) {
           <div className="flex items-center gap-4">
             <Phone size={30} color="#00DF5E" />
             <span className=" text-xl font-light text-zinc-700 dark:text-zinc-400 ">
-              (44) 99842-8989
+              55 - (44) 99842-8989
             </span>
           </div>
         </div>

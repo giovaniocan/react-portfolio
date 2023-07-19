@@ -6,17 +6,17 @@ export const skills = [
   },
   {
     src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg',
-    level: 4,
+    level: 5,
     title: 'CSS 3',
   },
   {
     src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg',
-    level: 4,
+    level: 5,
     title: 'Tailwind',
   },
   {
     src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
-    level: 4,
+    level: 5,
     title: 'JavaScript',
   },
   {
@@ -31,7 +31,7 @@ export const skills = [
   },
   {
     src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg',
-    level: 4,
+    level: 5,
     title: 'Next.js',
   },
   {

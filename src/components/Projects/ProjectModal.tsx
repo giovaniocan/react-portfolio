@@ -42,7 +42,7 @@ export function ProjectModal({
           {project.description}
         </span>
         <div>
-          <h2 className=" text-3xl font-medium  ">Tecnologias</h2>
+          <h2 className=" text-3xl font-medium  ">Technologies</h2>
           <span className=" mt-6 text-xl  dark:text-zinc-400 ">
             {project.techs.join(', ')}
           </span>

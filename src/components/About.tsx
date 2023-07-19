@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { useInView } from 'react-intersection-observer'
 import { useEffect } from 'react'
 import { useAnimation, motion } from 'framer-motion'
@@ -28,12 +29,11 @@ export function About() {
         Sobre mim
       </h1>
       <p className=" mt-10 px-6  text-center text-base lg:px-36 text-lg leading-8   dark:text-zinc-400  ">
-        Meu nome é Giovani Apolinario Ocan, tenho 18 anos e estudo programação
-        há mais de 4 anos. Atualmente estou focado em aprender cada vez mais
-        sobre o Front End e suas tecnologias, como o React e Nextjs utilizando
-        Typescript. Agora que terminei o ensino médio integrado ao curso de
-        técnico em informática pretendo aprimorar minhas skills e conhecimentos
-        para poder entrar no mercado de trabalho como dev.
+        I'm a junior developer with a passion for technology with 4+ years of
+        programming experience. I believe that programming has the power to
+        transform people's lives and solve real problems. I seek constant
+        learning and am excited to contribute to challenging projects, improving
+        my skills and driving the team's progress.
       </p>
     </motion.div>
   )

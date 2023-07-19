@@ -9,7 +9,7 @@ export const projects = [
   {
     title: 'Ignite Call',
     description:
-      'O projeto Ignite Call foi construído para agendamentos de compromissos a partir de um calendário com integração com o Google Agenda',
+      'The Ignite Call project was built for scheduling appointments using a calendar with Google Agenda integration',
     techs: ['React', 'Next.js', 'Node', 'Google APIs', 'Axios', 'TypeScript'],
     image: igniteCallPng,
     github: 'https://github.com/giovaniocan/ignite-call',
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: 'Ignite Shop',
-    description: 'Site para venda de itens do Ignite.',
+    description: 'Website for selling Ignite items.',
     techs: ['React', 'TypeScript', 'Next', 'Stitches', 'Stripe'],
     image: igniteShopPng,
     github: 'https://github.com/giovaniocan/04-iginite-shop',
@@ -25,7 +25,7 @@ export const projects = [
 
   {
     title: 'Coffee Delivery',
-    description: 'Site para gerenciar um carrinho de compras',
+    description: 'Website for managing a shopping cart.',
     techs: ['React', 'TypeScript', 'Styled-components'],
     image: CoffeDeliveryPng,
     github: 'https://github.com/giovaniocan/Coffee-Delivery',
@@ -33,14 +33,15 @@ export const projects = [
   {
     title: 'Luna Bus',
     description:
-      'Site para o transporte público voltado para cidades de pequeno e médio porte.',
+      'Website for public transportation focused on small and medium-sized cities.',
     techs: ['React', 'Next', 'TypeScript', 'Tailwind CSS'],
     image: lunaBusPng,
     deploy: 'https://lunabus.com.br',
   },
   {
     title: 'Design System Ignite Call',
-    description: 'Design System criado para utilizar na aplicação Ignite Call.',
+    description:
+      'Design System created for use in the Ignite Call application.',
     techs: ['React', 'StoryBook', 'Stitches', 'TypeScript'],
     image: designSystemPng,
     github: 'https://github.com/giovaniocan/05-design-system',
@@ -48,7 +49,7 @@ export const projects = [
   {
     title: 'Dev Finder',
     description:
-      'site para buscar desenvolvedores e empresas no github, e mostrar seus dados mais relevantes',
+      'Website for searching developers and companies on GitHub and showing their most relevant data.',
     techs: [
       'React',
       'TypeScript',
