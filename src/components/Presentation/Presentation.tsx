@@ -47,7 +47,7 @@ export function Presentation() {
         </h2>
         <div className=" w-full mt-8 flex items-center justify-stretch gap-3 ">
           <a
-            href="https://docs.google.com/document/d/1ctkO9gjBhv-EvMOO1UL8Vxv6Ns70Od2-q_38KT51kfQ/edit?usp=sharing.pdf"
+            href="/GiovaniOcanCV.pdf"
             className=" border border-zinc-400 dark:border-zinc-800 w-full text-sm p-3 flex items-center justify-center "
           >
             Download CV
